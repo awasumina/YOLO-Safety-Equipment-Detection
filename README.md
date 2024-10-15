@@ -44,13 +44,13 @@ For inference on test images, run the following command:
 Sample Results:
 
 - Confusion Matrix:
-  ![Confusion Matrix](runs/detect/train4/confusion_matrix.png)
+  ![Confusion Matrix](https://github.com/awasumina/YOLO-Safety-Equipment-Detection/blob/main/results/confusion_matrix.png)
 
 - Training Results:
-  ![Training Results](runs/detect/train4/results.png)
+  ![Training Results](https://github.com/awasumina/YOLO-Safety-Equipment-Detection/blob/main/results/results.png)
 
 - Validation Example:
-  ![Validation](runs/detect/train4/val_batch0_pred.jpg)
+  ![Validation](https://github.com/awasumina/YOLO-Safety-Equipment-Detection/blob/main/results/results.pngval_batch0_pred.jpg)
 
 ## Model Performance
 
