@@ -56,4 +56,4 @@ Sample Results:
 
 - **Precision**: Measures the accuracy of detecting safety equipment correctly.
 - **Speed**: Optimized for real-time detection with fast inference times.
-- **Efficiency**: Custom YOLOv8 model tuned for detecting multiple objects simultaneously.
+- **Efficiency**: Custom YOLOv8 model tuned for detecting multiple objects simultaneously.   
